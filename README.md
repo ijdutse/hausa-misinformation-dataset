@@ -75,10 +75,10 @@ This dataset is licensed under the **Creative Commons Attribution-NonCommercial 
 If you use this dataset in your research, please cite it using the following BibTeX entry:
 
 ```bibtex
-@dataset{hausa_fake_content_202X,
-  author = {Your Name and Collaborators},
-  title = {Hausa Fake Content Dataset},
-  year = {202X},
+@dataset{hausa_misinformation_dataset_2025,
+  author = {Isa Inuwa-Dutse},
+  title = {Hausa Misinformation Dataset},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/ijdutsee/hausa-misinformation-dataset}
 }
