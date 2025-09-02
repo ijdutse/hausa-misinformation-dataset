@@ -70,6 +70,9 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 This dataset is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. See the [LICENSE](LICENSE) file for details.
 **Please note:** This is a common license for datasets to prevent misuse. Choose the license that best fits your goals.
 
+**Disclaimer:** This dataset is provided for academic research purposes only. The content does not reflect the views of the creators and is representative of information found in the public domain. 
+
+
 ## 🙏 Citation
 
 If you use this dataset in your research, please cite it using the following BibTeX entry:
